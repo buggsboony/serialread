@@ -1,4 +1,4 @@
- Use python to read Arduino output
+ Use python to read Arduino output (Serial, default 115200 Bauds)
  
  #pip install pyserial
 
