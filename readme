@@ -1,0 +1,5 @@
+ Use python to read Arduino output
+ 
+ #pip install pyserial
+
+ Tested with Esp32
